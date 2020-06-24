@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/*
+  Author: Fábio Amorim
+  Date: 23/06/2020
+*/
+
 int fatorial(int number){
 
   if((number-1)>0){
